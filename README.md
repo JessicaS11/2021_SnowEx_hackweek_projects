@@ -12,5 +12,3 @@ This repository contains information on the SnowEx hackweek projects for 2021.  
 | UAVSAR for snow depth over Grand Mesa | [https://github.com/snowex-hackweek/uavsar](https://github.com/snowex-hackweek/uavsar) | [#uavsar](https://snowexhackweek2021.slack.com/archives/C0286S9MN3T) | video |
 | Surface density explorations | [https://github.com/snowex-hackweek/snow-sinking](https://github.com/snowex-hackweek/snow-sinking)| [#snow-sinking](https://snowexhackweek2021.slack.com/archives/C027DGK0FK9) | video |
 | Laser measurements of snow from space | [https://github.com/snowex-hackweek/Space_Lasers](https://github.com/snowex-hackweek/Space_Lasers)| [#space_lasers](https://snowexhackweek2021.slack.com/archives/C027DJF125V) | video |
-
-
